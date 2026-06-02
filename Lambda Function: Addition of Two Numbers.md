@@ -1,16 +1,23 @@
-# Lambda Function in Python: Addition of Two Numbers
+[# Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
-To write a Python program that defines a **lambda function** which takes two arguments `a` and `b`, and returns their sum.
+To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
 
 ## 🧠 Algorithm
-1. Get two integer inputs from the user.
-2. Use a **lambda function** to define a function `f` that returns `a + b`.
-3. Call the function with the user inputs and print the result.
+1. Assign the value `16` to a variable `a`.
+2. Use the built-in `bin()` function to convert the number to binary.
+3. Print the result.
 
 ## 🧾 Program
-Add code here
+```
+x=16
+y=bin(x)
+print(y)
+```
 
 ## Output
+<img width="385" height="305" alt="530222747-dca218f8-001c-47f6-96b9-b47f55ccd361" src="https://github.com/user-attachments/assets/ef223170-f65f-4245-b33d-72561c6330ec" />
 
 ## Result
+Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
+](https://github.com/jonathansamraj28-ui/Module-2/edit/main/Lambda%20Function%3A%20Addition%20of%20Two%20Numbers.md)
